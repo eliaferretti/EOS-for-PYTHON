@@ -5,8 +5,6 @@ EoS prerequisites Declare global variables:
 - pc = Vector of critical pressures [Pa]
 - w = Vector of Pitzer acentric factors [-]
 
-Wilson's range prerequisites Declare Wilson's coefficient matrix global with the name 'W' (double capital 'W')
-
 Meaning of input terms:
 - T/Temp = Temperature [K]
 - p/press = Pressure [Pa]
