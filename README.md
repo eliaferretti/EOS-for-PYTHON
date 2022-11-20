@@ -16,7 +16,6 @@ Notes on output terms:
 - zeta [-]
 - phi [-]
 - residual enthalpy [J/mol]
-- gamma [-]
 
 Notes - The functions use the units of measurement of the International System - All functions have been tested on the numerical results of exercises proposed in the text: "Fondamenti di Termodinamica dell’Ingegneria Chimica" - R.Rota
 
